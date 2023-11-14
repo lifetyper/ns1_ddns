@@ -1,0 +1,8 @@
+{
+  "domain": "yourdomain.com",
+  "ns1_token": "your_ns1_token",
+  "ip_api_url": "https://api.ipify.org/",
+  "dns_server": "1.1.1.1",
+  "pushover_user_key": "your_pushover_user_key or null",
+  "pushover_api_token": "your_pushover_api_token or null"
+}
